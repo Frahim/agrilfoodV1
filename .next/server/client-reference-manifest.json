@@ -747,7 +747,7 @@
         "id": "(sc_client)/./public/logo.webp",
         "name": "*",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -755,7 +755,7 @@
         "id": "(sc_client)/./public/logo.webp",
         "name": "",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -763,7 +763,7 @@
         "id": "(sc_client)/./public/logo.webp",
         "name": "default",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       }
@@ -799,7 +799,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "*",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -807,7 +807,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -815,7 +815,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "default",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       }
@@ -825,7 +825,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "*",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -833,7 +833,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -841,7 +841,7 @@
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "default",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       }
@@ -851,7 +851,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "*",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -859,7 +859,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -867,7 +867,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "default",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -875,7 +875,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "defaultHead",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -883,7 +883,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "charSet",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -891,7 +891,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "name",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -899,7 +899,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "content",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -907,7 +907,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"title\"",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -915,7 +915,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"base\"",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -923,7 +923,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"meta\"",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -931,7 +931,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "TODO(prateekbh@)",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -939,7 +939,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"https",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -947,7 +947,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "here",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -955,7 +955,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "https",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -963,7 +963,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "reduceComponentsToState",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -971,7 +971,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "headManager",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -979,7 +979,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "inAmpMode",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       },
@@ -987,7 +987,7 @@
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "value",
         "chunks": [
-          "app/about/page:static/chunks/app/about/page.js"
+          "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
         ],
         "async": false
       }
@@ -1089,83 +1089,22 @@
         ],
         "async": false
       }
-    },
-    "(app-client)/./public/agrillogo_03.png": {
-      "*": {
-        "id": "(sc_client)/./public/agrillogo_03.png",
-        "name": "*",
-        "chunks": [
-          "app/brands/[slug]/page:static/chunks/app/brands/[slug]/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./public/agrillogo_03.png",
-        "name": "",
-        "chunks": [
-          "app/brands/[slug]/page:static/chunks/app/brands/[slug]/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./public/agrillogo_03.png",
-        "name": "default",
-        "chunks": [
-          "app/brands/[slug]/page:static/chunks/app/brands/[slug]/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./components/contactForm.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/contactForm.tsx",
-        "name": "*",
-        "chunks": [
-          "app/contact/page:static/chunks/app/contact/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/contactForm.tsx",
-        "name": "",
-        "chunks": [
-          "app/contact/page:static/chunks/app/contact/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/contactForm.tsx",
-        "name": "default",
-        "chunks": [
-          "app/contact/page:static/chunks/app/contact/page.js"
-        ],
-        "async": false
-      }
     }
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "G:\\tsconfig\\app\\page": [
+    "E:\\agril backup\\frontend\\agrilfoodV1\\app\\page": [
       "static/css/app/page.css"
     ],
-    "G:\\tsconfig\\app\\layout": [
+    "E:\\agril backup\\frontend\\agrilfoodV1\\app\\layout": [
       "static/css/app/layout.css"
     ],
-    "G:\\tsconfig\\app\\category\\[slug]\\page": [
+    "E:\\agril backup\\frontend\\agrilfoodV1\\app\\category\\[slug]\\page": [
       "static/css/app/category/[slug]/page.css"
-    ],
-    "G:\\tsconfig\\app\\brands\\[slug]\\page": [
-      "static/css/app/brands/[slug]/page.css"
-    ],
-    "G:\\tsconfig\\app\\contact\\page": [
-      "static/css/app/contact/page.css"
-    ],
-    "G:\\tsconfig\\app\\about\\page": [
-      "static/css/app/about/page.css"
     ]
   },
   "clientModules": {
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -1173,7 +1112,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -1181,7 +1120,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -1189,7 +1128,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -1197,7 +1136,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -1205,7 +1144,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -1213,7 +1152,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#getServerActionDispatcher": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -1221,7 +1160,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#getServerActionDispatcher": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -1229,7 +1168,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -1237,7 +1176,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -1245,7 +1184,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#TODO-APP": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#TODO-APP": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "TODO-APP",
       "chunks": [
@@ -1253,7 +1192,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#TODO-APP": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#TODO-APP": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "TODO-APP",
       "chunks": [
@@ -1261,7 +1200,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#__NA": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#__NA": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "__NA",
       "chunks": [
@@ -1269,7 +1208,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#__NA": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#__NA": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "__NA",
       "chunks": [
@@ -1277,7 +1216,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#location": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#location": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "location",
       "chunks": [
@@ -1285,7 +1224,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#location": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#location": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "location",
       "chunks": [
@@ -1293,7 +1232,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#\"http": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#\"http": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "\"http",
       "chunks": [
@@ -1301,7 +1240,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#\"http": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#\"http": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "\"http",
       "chunks": [
@@ -1309,7 +1248,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#searchParams": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#searchParams": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "searchParams",
       "chunks": [
@@ -1317,7 +1256,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#searchParams": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#searchParams": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "searchParams",
       "chunks": [
@@ -1325,7 +1264,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#pathname": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#pathname": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pathname",
       "chunks": [
@@ -1333,7 +1272,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pathname": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pathname": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pathname",
       "chunks": [
@@ -1341,7 +1280,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#type": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#type": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "type",
       "chunks": [
@@ -1349,7 +1288,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#type": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#type": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "type",
       "chunks": [
@@ -1357,7 +1296,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#cache": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#cache": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "cache",
       "chunks": [
@@ -1365,7 +1304,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#cache": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#cache": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "cache",
       "chunks": [
@@ -1373,7 +1312,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#status": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#status": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "status",
       "chunks": [
@@ -1381,7 +1320,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#status": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#status": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "status",
       "chunks": [
@@ -1389,7 +1328,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#data": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#data": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "data",
       "chunks": [
@@ -1397,7 +1336,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#data": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#data": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "data",
       "chunks": [
@@ -1405,7 +1344,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#subTreeData": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#subTreeData": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "subTreeData",
       "chunks": [
@@ -1413,7 +1352,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#subTreeData": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#subTreeData": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "subTreeData",
       "chunks": [
@@ -1421,7 +1360,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#parallelRoutes": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#parallelRoutes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "parallelRoutes",
       "chunks": [
@@ -1429,7 +1368,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#parallelRoutes": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#parallelRoutes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "parallelRoutes",
       "chunks": [
@@ -1437,7 +1376,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#mutable": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#mutable": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "mutable",
       "chunks": [
@@ -1445,7 +1384,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#mutable": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#mutable": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "mutable",
       "chunks": [
@@ -1453,7 +1392,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#isExternalUrl": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#isExternalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "isExternalUrl",
       "chunks": [
@@ -1461,7 +1400,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#isExternalUrl": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#isExternalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "isExternalUrl",
       "chunks": [
@@ -1469,7 +1408,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#locationSearch": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#locationSearch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "locationSearch",
       "chunks": [
@@ -1477,7 +1416,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#locationSearch": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#locationSearch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "locationSearch",
       "chunks": [
@@ -1485,7 +1424,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#back": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#back": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "back",
       "chunks": [
@@ -1493,7 +1432,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#back": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#back": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "back",
       "chunks": [
@@ -1501,7 +1440,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#forward": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#forward": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "forward",
       "chunks": [
@@ -1509,7 +1448,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#forward": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#forward": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "forward",
       "chunks": [
@@ -1517,7 +1456,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#prefetch": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#prefetch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "prefetch",
       "chunks": [
@@ -1525,7 +1464,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#prefetch": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#prefetch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "prefetch",
       "chunks": [
@@ -1533,7 +1472,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#kind": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#kind": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "kind",
       "chunks": [
@@ -1541,7 +1480,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#kind": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#kind": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "kind",
       "chunks": [
@@ -1549,7 +1488,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#replace": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#replace": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "replace",
       "chunks": [
@@ -1557,7 +1496,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#replace": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#replace": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "replace",
       "chunks": [
@@ -1565,7 +1504,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#push": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#push": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "push",
       "chunks": [
@@ -1573,7 +1512,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#push": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#push": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "push",
       "chunks": [
@@ -1581,7 +1520,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#refresh": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#refresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "refresh",
       "chunks": [
@@ -1589,7 +1528,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#refresh": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#refresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "refresh",
       "chunks": [
@@ -1597,7 +1536,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#origin": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#origin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "origin",
       "chunks": [
@@ -1605,7 +1544,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#origin": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#origin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "origin",
       "chunks": [
@@ -1613,7 +1552,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#fastRefresh": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#fastRefresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "fastRefresh",
       "chunks": [
@@ -1621,7 +1560,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#fastRefresh": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#fastRefresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "fastRefresh",
       "chunks": [
@@ -1629,7 +1568,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#router": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "router",
       "chunks": [
@@ -1637,7 +1576,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#router": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "router",
       "chunks": [
@@ -1645,7 +1584,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#(eg": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#(eg": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "(eg",
       "chunks": [
@@ -1653,7 +1592,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#(eg": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#(eg": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "(eg",
       "chunks": [
@@ -1661,7 +1600,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#url": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#url": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "url",
       "chunks": [
@@ -1669,7 +1608,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#url": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#url": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "url",
       "chunks": [
@@ -1677,7 +1616,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#tree": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#tree": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "tree",
       "chunks": [
@@ -1685,7 +1624,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#tree": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#tree": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "tree",
       "chunks": [
@@ -1693,7 +1632,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#notFound": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#notFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFound",
       "chunks": [
@@ -1701,7 +1640,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFound": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFound",
       "chunks": [
@@ -1709,7 +1648,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#notFoundStyles": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#notFoundStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFoundStyles",
       "chunks": [
@@ -1717,7 +1656,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFoundStyles": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFoundStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFoundStyles",
       "chunks": [
@@ -1725,7 +1664,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#asNotFound": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#asNotFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "asNotFound",
       "chunks": [
@@ -1733,7 +1672,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#asNotFound": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#asNotFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "asNotFound",
       "chunks": [
@@ -1741,7 +1680,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#pushRef": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#pushRef": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pushRef",
       "chunks": [
@@ -1749,7 +1688,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pushRef": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pushRef": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pushRef",
       "chunks": [
@@ -1757,7 +1696,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#canonicalUrl": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#canonicalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "canonicalUrl",
       "chunks": [
@@ -1765,7 +1704,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#canonicalUrl": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#canonicalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "canonicalUrl",
       "chunks": [
@@ -1773,7 +1712,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#sync": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#sync": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "sync",
       "chunks": [
@@ -1781,7 +1720,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#sync": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#sync": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "sync",
       "chunks": [
@@ -1789,7 +1728,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#value": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "value",
       "chunks": [
@@ -1797,7 +1736,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#value": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "value",
       "chunks": [
@@ -1805,7 +1744,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#childNodes": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#childNodes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "childNodes",
       "chunks": [
@@ -1813,7 +1752,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#childNodes": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#childNodes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "childNodes",
       "chunks": [
@@ -1821,7 +1760,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#assetPrefix": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#assetPrefix": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "assetPrefix",
       "chunks": [
@@ -1829,7 +1768,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#assetPrefix": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#assetPrefix": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "assetPrefix",
       "chunks": [
@@ -1837,7 +1776,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\app-router.js#errorComponent": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\app-router.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "errorComponent",
       "chunks": [
@@ -1845,7 +1784,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#errorComponent": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "errorComponent",
       "chunks": [
@@ -1853,7 +1792,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -1861,7 +1800,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -1869,7 +1808,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -1877,7 +1816,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -1885,7 +1824,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -1893,7 +1832,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -1901,7 +1840,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -1909,7 +1848,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -1917,7 +1856,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -1925,7 +1864,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -1933,7 +1872,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#error": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#error": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "error",
       "chunks": [
@@ -1941,7 +1880,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#error": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#error": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "error",
       "chunks": [
@@ -1949,7 +1888,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#https": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#https": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "https",
       "chunks": [
@@ -1957,7 +1896,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#https": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#https": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "https",
       "chunks": [
@@ -1965,7 +1904,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontFamily": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontFamily": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontFamily",
       "chunks": [
@@ -1973,7 +1912,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontFamily": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontFamily": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontFamily",
       "chunks": [
@@ -1981,7 +1920,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#height": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#height": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "height",
       "chunks": [
@@ -1989,7 +1928,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#height": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#height": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "height",
       "chunks": [
@@ -1997,7 +1936,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#textAlign": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#textAlign": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "textAlign",
       "chunks": [
@@ -2005,7 +1944,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#textAlign": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#textAlign": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "textAlign",
       "chunks": [
@@ -2013,7 +1952,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#display": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#display": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "display",
       "chunks": [
@@ -2021,7 +1960,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#display": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#display": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "display",
       "chunks": [
@@ -2029,7 +1968,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#flexDirection": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#flexDirection": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "flexDirection",
       "chunks": [
@@ -2037,7 +1976,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#flexDirection": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#flexDirection": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "flexDirection",
       "chunks": [
@@ -2045,7 +1984,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#alignItems": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#alignItems": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "alignItems",
       "chunks": [
@@ -2053,7 +1992,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#alignItems": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#alignItems": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "alignItems",
       "chunks": [
@@ -2061,7 +2000,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#justifyContent": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#justifyContent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "justifyContent",
       "chunks": [
@@ -2069,7 +2008,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#justifyContent": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#justifyContent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "justifyContent",
       "chunks": [
@@ -2077,7 +2016,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#desc": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#desc": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "desc",
       "chunks": [
@@ -2085,7 +2024,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#desc": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#desc": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "desc",
       "chunks": [
@@ -2093,7 +2032,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#text": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#text": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "text",
       "chunks": [
@@ -2101,7 +2040,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#text": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#text": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "text",
       "chunks": [
@@ -2109,7 +2048,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontSize": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontSize": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontSize",
       "chunks": [
@@ -2117,7 +2056,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontSize": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontSize": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontSize",
       "chunks": [
@@ -2125,7 +2064,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontWeight": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontWeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontWeight",
       "chunks": [
@@ -2133,7 +2072,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontWeight": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontWeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontWeight",
       "chunks": [
@@ -2141,7 +2080,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#lineHeight": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#lineHeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "lineHeight",
       "chunks": [
@@ -2149,7 +2088,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#lineHeight": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#lineHeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "lineHeight",
       "chunks": [
@@ -2157,7 +2096,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#margin": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#margin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "margin",
       "chunks": [
@@ -2165,7 +2104,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#margin": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#margin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "margin",
       "chunks": [
@@ -2173,7 +2112,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#reset": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2181,7 +2120,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#reset": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2189,7 +2128,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#style": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#style": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "style",
       "chunks": [
@@ -2197,7 +2136,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#style": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#style": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "style",
       "chunks": [
@@ -2205,7 +2144,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#\"Digest": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#\"Digest": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "\"Digest",
       "chunks": [
@@ -2213,7 +2152,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#\"Digest": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#\"Digest": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "\"Digest",
       "chunks": [
@@ -2221,7 +2160,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorComponent": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorComponent",
       "chunks": [
@@ -2229,7 +2168,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorComponent": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorComponent",
       "chunks": [
@@ -2237,7 +2176,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorStyles": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorStyles",
       "chunks": [
@@ -2245,7 +2184,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorStyles": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorStyles",
       "chunks": [
@@ -2253,7 +2192,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\error-boundary.js#value": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\error-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "value",
       "chunks": [
@@ -2261,7 +2200,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#value": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "value",
       "chunks": [
@@ -2269,7 +2208,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -2277,7 +2216,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -2285,7 +2224,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -2293,7 +2232,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -2301,7 +2240,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -2309,7 +2248,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -2317,7 +2256,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -2325,7 +2264,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -2333,7 +2272,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -2341,7 +2280,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -2349,7 +2288,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirect": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirect": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirect",
       "chunks": [
@@ -2357,7 +2296,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirect": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirect": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirect",
       "chunks": [
@@ -2365,7 +2304,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirectType": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirectType": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirectType",
       "chunks": [
@@ -2373,7 +2312,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirectType": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirectType": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirectType",
       "chunks": [
@@ -2381,7 +2320,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#reset": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2389,7 +2328,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#reset": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "reset",
       "chunks": [
@@ -2397,7 +2336,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#router": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "router",
       "chunks": [
@@ -2405,7 +2344,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#router": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "router",
       "chunks": [
@@ -2413,7 +2352,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#value": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "value",
       "chunks": [
@@ -2421,7 +2360,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#value": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "value",
       "chunks": [
@@ -2429,7 +2368,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -2437,7 +2376,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -2445,7 +2384,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -2453,7 +2392,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -2461,7 +2400,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -2469,7 +2408,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -2477,7 +2416,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -2485,7 +2424,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -2493,7 +2432,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -2501,7 +2440,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -2509,7 +2448,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -2517,7 +2456,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -2525,7 +2464,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -2533,7 +2472,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -2541,7 +2480,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -2549,7 +2488,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -2557,7 +2496,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -2565,7 +2504,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -2573,7 +2512,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -2581,7 +2520,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -2589,7 +2528,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -2597,7 +2536,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -2605,7 +2544,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -2613,7 +2552,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -2621,15 +2560,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
-      "name": "SearchParamsContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -2637,7 +2568,15 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -2645,7 +2584,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -2653,7 +2592,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -2661,7 +2600,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -2669,7 +2608,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -2677,7 +2616,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -2685,15 +2624,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
-      "name": "ServerInsertedHTMLContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -2701,7 +2632,15 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -2709,7 +2648,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -2717,7 +2656,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -2725,7 +2664,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -2733,7 +2672,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\layout-router.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -2741,7 +2680,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -2749,7 +2688,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\layout-router.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -2757,7 +2696,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -2765,7 +2704,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -2773,7 +2712,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -2781,7 +2720,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -2789,7 +2728,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -2797,7 +2736,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -2805,7 +2744,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -2813,7 +2752,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -2821,7 +2760,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -2829,7 +2768,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -2837,7 +2776,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -2845,7 +2784,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -2853,7 +2792,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -2861,64 +2800,61 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\bootstrap\\dist\\css\\bootstrap.css#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\bootstrap\\dist\\css\\bootstrap.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/page.css",
         "static/css/app/layout.css",
-        "static/css/app/category/[slug]/page.css",
-        "static/css/app/contact/page.css",
-        "static/css/app/about/page.css"
+        "static/css/app/category/[slug]/page.css"
       ]
     },
-    "G:\\tsconfig\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\page.tsx\",\"import\":\"Istok_Web\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"400\",\"700\"]}],\"variableName\":\"istok\"}#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\page.tsx\",\"import\":\"Istok_Web\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"400\",\"700\"]}],\"variableName\":\"istok\"}#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/page.css"
       ]
     },
-    "G:\\tsconfig\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\page.tsx\",\"import\":\"Mogra\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"400\"]}],\"variableName\":\"mogra\"}#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\page.tsx\",\"import\":\"Mogra\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"400\"]}],\"variableName\":\"mogra\"}#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/page.css"
       ]
     },
-    "G:\\tsconfig\\components\\banner.module.css#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\components\\banner.module.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/page.css",
-        "static/css/app/brands/[slug]/page.css"
+        "static/css/app/page.css"
       ]
     },
-    "G:\\tsconfig\\public\\logo.webp": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\public\\logo.webp": {
       "id": "(app-client)/./public/logo.webp",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\public\\logo.webp#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\public\\logo.webp#": {
       "id": "(app-client)/./public/logo.webp",
       "name": "",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\public\\logo.webp#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\public\\logo.webp#default": {
       "id": "(app-client)/./public/logo.webp",
       "name": "default",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\components\\counting.tsx": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\components\\counting.tsx": {
       "id": "(app-client)/./components/counting.tsx",
       "name": "*",
       "chunks": [
@@ -2926,7 +2862,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\components\\counting.tsx#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\components\\counting.tsx#": {
       "id": "(app-client)/./components/counting.tsx",
       "name": "",
       "chunks": [
@@ -2934,7 +2870,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\components\\counting.tsx#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\components\\counting.tsx#default": {
       "id": "(app-client)/./components/counting.tsx",
       "name": "default",
       "chunks": [
@@ -2942,412 +2878,412 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\image.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\image.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\image.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\image.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\image.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\image.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\link.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\link.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\link.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\link.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\link.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#defaultHead": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#defaultHead": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#charSet": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#charSet": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#charSet": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#charSet": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#name": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#name": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#name": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#name": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#content": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#content": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#content": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#content": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#\"title\"": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#\"title\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"title\"": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"title\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#\"base\"": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#\"base\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"base\"": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"base\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#\"meta\"": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#\"meta\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"meta\"": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"meta\"": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#TODO(prateekbh@)": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#TODO(prateekbh@)": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#TODO(prateekbh@)": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#TODO(prateekbh@)": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#\"https": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#\"https": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"https": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#\"https": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#here": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#here": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#here": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#here": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#https": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#https": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#https": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#https": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#reduceComponentsToState": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#reduceComponentsToState": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#reduceComponentsToState": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#reduceComponentsToState": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#headManager": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#headManager": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#headManager": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#headManager": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#inAmpMode": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#inAmpMode": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#inAmpMode": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#inAmpMode": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\shared\\lib\\head.js#value": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\shared\\lib\\head.js#value": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#value": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#value": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/about/page:static/chunks/app/about/page.js"
+        "app/category/[slug]/page:static/chunks/app/category/[slug]/page.js"
       ],
       "async": false
     },
-    "G:\\tsconfig\\app\\globals.css#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\app\\globals.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "G:\\tsconfig\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Exo\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"300\",\"400\",\"500\",\"600\"]}],\"variableName\":\"exo\"}#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Exo\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"300\",\"400\",\"500\",\"600\"]}],\"variableName\":\"exo\"}#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "G:\\tsconfig\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Istok_Web\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"400\",\"700\"]}],\"variableName\":\"istok\"}#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Istok_Web\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"400\",\"700\"]}],\"variableName\":\"istok\"}#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\script.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\script.js": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "*",
       "chunks": [
@@ -3355,7 +3291,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\script.js": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\script.js": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "*",
       "chunks": [
@@ -3363,7 +3299,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\script.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\script.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "",
       "chunks": [
@@ -3371,7 +3307,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\script.js#": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\script.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "",
       "chunks": [
@@ -3379,7 +3315,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\script.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\script.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "default",
       "chunks": [
@@ -3387,7 +3323,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\script.js#default": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\script.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "default",
       "chunks": [
@@ -3395,7 +3331,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\script.js#handleClientScriptLoad": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\script.js#handleClientScriptLoad": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "handleClientScriptLoad",
       "chunks": [
@@ -3403,7 +3339,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\script.js#handleClientScriptLoad": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\script.js#handleClientScriptLoad": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "handleClientScriptLoad",
       "chunks": [
@@ -3411,7 +3347,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\script.js#initScriptLoader": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\script.js#initScriptLoader": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "initScriptLoader",
       "chunks": [
@@ -3419,7 +3355,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\script.js#initScriptLoader": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\script.js#initScriptLoader": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "initScriptLoader",
       "chunks": [
@@ -3427,7 +3363,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\script.js#mount": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\script.js#mount": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "mount",
       "chunks": [
@@ -3435,7 +3371,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\script.js#mount": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\script.js#mount": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "mount",
       "chunks": [
@@ -3443,7 +3379,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\script.js#nonce": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\script.js#nonce": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "nonce",
       "chunks": [
@@ -3451,7 +3387,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\script.js#nonce": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\script.js#nonce": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "nonce",
       "chunks": [
@@ -3459,7 +3395,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\script.js#dangerouslySetInnerHTML": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\script.js#dangerouslySetInnerHTML": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "dangerouslySetInnerHTML",
       "chunks": [
@@ -3467,7 +3403,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\script.js#dangerouslySetInnerHTML": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\script.js#dangerouslySetInnerHTML": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "dangerouslySetInnerHTML",
       "chunks": [
@@ -3475,7 +3411,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\script.js#__html": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\script.js#__html": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "__html",
       "chunks": [
@@ -3483,7 +3419,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\script.js#__html": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\script.js#__html": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "__html",
       "chunks": [
@@ -3491,7 +3427,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\script.js#as": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\script.js#as": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "as",
       "chunks": [
@@ -3499,7 +3435,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\script.js#as": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\script.js#as": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "as",
       "chunks": [
@@ -3507,7 +3443,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\script.js#integrity": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\script.js#integrity": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "integrity",
       "chunks": [
@@ -3515,7 +3451,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\script.js#integrity": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\script.js#integrity": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "integrity",
       "chunks": [
@@ -3523,7 +3459,7 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\client\\script.js#value": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\client\\script.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "value",
       "chunks": [
@@ -3531,66 +3467,11 @@
       ],
       "async": false
     },
-    "G:\\tsconfig\\node_modules\\next\\dist\\esm\\client\\script.js#value": {
+    "E:\\agril backup\\frontend\\agrilfoodV1\\node_modules\\next\\dist\\esm\\client\\script.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/script.js",
       "name": "value",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "G:\\tsconfig\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\brands\\\\[slug]\\\\page.tsx\",\"import\":\"Istok_Web\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"400\",\"700\"]}],\"variableName\":\"istok\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/brands/[slug]/page.css"
-      ]
-    },
-    "G:\\tsconfig\\public\\agrillogo_03.png": {
-      "id": "(app-client)/./public/agrillogo_03.png",
-      "name": "*",
-      "chunks": [
-        "app/brands/[slug]/page:static/chunks/app/brands/[slug]/page.js"
-      ],
-      "async": false
-    },
-    "G:\\tsconfig\\public\\agrillogo_03.png#": {
-      "id": "(app-client)/./public/agrillogo_03.png",
-      "name": "",
-      "chunks": [
-        "app/brands/[slug]/page:static/chunks/app/brands/[slug]/page.js"
-      ],
-      "async": false
-    },
-    "G:\\tsconfig\\public\\agrillogo_03.png#default": {
-      "id": "(app-client)/./public/agrillogo_03.png",
-      "name": "default",
-      "chunks": [
-        "app/brands/[slug]/page:static/chunks/app/brands/[slug]/page.js"
-      ],
-      "async": false
-    },
-    "G:\\tsconfig\\components\\contactForm.tsx": {
-      "id": "(app-client)/./components/contactForm.tsx",
-      "name": "*",
-      "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
-      ],
-      "async": false
-    },
-    "G:\\tsconfig\\components\\contactForm.tsx#": {
-      "id": "(app-client)/./components/contactForm.tsx",
-      "name": "",
-      "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
-      ],
-      "async": false
-    },
-    "G:\\tsconfig\\components\\contactForm.tsx#default": {
-      "id": "(app-client)/./components/contactForm.tsx",
-      "name": "default",
-      "chunks": [
-        "app/contact/page:static/chunks/app/contact/page.js"
       ],
       "async": false
     }

@@ -7,8 +7,9 @@ const nextConfig = {
       process.env.NEXT_PUBLIC_API_URL
   },
   images: {
-      domains: ['admin.agrilfoods.com'],
+      domains: ['admin.agrilfoods.com'],   
   },
+ 
   webp: {
     preset: "default",
     quality: 100,

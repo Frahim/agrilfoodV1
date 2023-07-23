@@ -1,4 +1,4 @@
-// File: G:\tsconfig\app\category\[slug]\page.tsx
+// File: E:\agril backup\frontend\agrilfoodV1\app\category\[slug]\page.tsx
 import * as entry from '../../../../../app/category/[slug]/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

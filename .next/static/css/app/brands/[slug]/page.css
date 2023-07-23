@@ -1,0 +1,328 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[3]!./components/banner.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************/
+.banner_bannerWrap__GIdV3 {
+   width: 100%;
+
+}
+.banner_slider__33ZxS{
+    position: relative;
+    padding: 8rem 0 10rem 0;
+    min-height: 60vh;
+    display: -ms-flexbox;
+    align-items: center;
+    overflow: hidden;
+}
+.banner_backgroundVideo__qO0ly{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover !important;
+    background-position: center top !important;
+    z-index: -1;
+    transform: scale(1.1);
+    transition: all ease-in-out 2s;
+}
+.banner_backgroundVideo__qO0ly::after{
+    content: '';
+    width: 100%;
+    height: 90%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-image: linear-gradient(180deg, rgba(0,0,0,0) 0%, #000 100%);
+    opacity: 0.8;
+}
+.banner_backgroundVideo__qO0ly video{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+}
+
+.banner_gridPad__lfK0S{
+    padding-top: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.banner_bannerTitle__4_Gu9{
+  
+    font-weight: 400;
+    line-height: 5.4rem;
+    color: #fff;
+    margin: 0;
+    word-break: break-word;
+}
+.banner_bannerTitle__4_Gu9 h1{
+    font-size:4rem;
+font-weight: 300;
+}
+.banner_bannerDesc__Tn3o9 p{
+    color:#fff;
+}
+
+.banner_borderAnimation__ecJ7l{
+    position: absolute;
+    width: 90%;
+    height: 90%;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transition: color 0.75s ease-in-out;    
+    padding: 10px;
+    margin: auto;
+
+}
+
+
+  
+  .banner_borderAnimation__ecJ7l:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    padding-right: 5px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+    visibility: hidden;
+  }
+  
+  .banner_borderAnimation__ecJ7l:before {
+    content: "";
+    position: absolute ;
+    top: 0px;
+    right: 0px;
+    padding-left: 5px;
+    width: 100%;
+    height: 100%;
+    border-top: 2px solid #fff;
+    border-left: 2px solid #fff;
+    visibility: hidden;
+    animation: banner_topleft__t7zF0 3s ease-in-out forwards;
+  }
+  
+  .banner_borderAnimation__ecJ7l:after {
+    animation: banner_bottomright__bwEYk 3s ease-in-out forwards;
+  }
+  
+  
+  
+  .banner_borderAnimation__ecJ7l:before,
+  .banner_borderAnimation__ecJ7l:after {
+    width: 100%;
+    height: 100%;
+    visibility: visible;
+  }
+
+  @keyframes banner_bottomright__bwEYk {
+    0% {
+      width: 0;
+      height: 0;
+      padding-top: 0;
+      visibility: visible;
+    }
+    25% {
+      width: 100%;
+      height: 0;
+      padding-top: 0;
+      visibility: visible;
+    }
+    50% {
+      height: 100%;
+      width: 100%;
+      visibility: visible;
+    }
+    75% {
+      visibility: visible;
+    }
+    100% {
+      visibility: visible;
+    }
+  }
+  
+  @keyframes banner_revbottomright__42yoU {
+    0% {
+      width: 100%;
+      height: 100%;
+      visibility: visible;
+    }
+    25% {
+      width: 100%;
+      height: 100%;
+      visibility: visible;
+    }
+    50% {
+      width: 100%;
+      height: 100%;
+      visibility: visible;
+    }
+    75% {
+      width: 100%;
+      height: 0;
+      padding-top: 0;
+      visibility: visible;
+    }
+    100% {
+      width: 0;
+      height: 0;
+      padding-top: 0;
+      visibility: hidden;
+    }
+  }
+  
+  @keyframes banner_topleft__t7zF0 {
+    0% {
+      width: 0;
+      height: 0;
+      padding-bottom: 0;
+      visibility: hidden;
+    }
+    25% {
+      width: 0;
+      height: 0;
+      padding-bottom: 0;
+      visibility: hidden;
+    }
+    50% {
+      width: 0;
+      height: 0;
+      padding-bottom: 0;
+      visibility: hidden;
+    }
+    75% {
+      width: 100%;
+      height: 0;
+      padding-bottom: 0;
+      visibility: visible;
+    }
+    100% {
+      width: 100%;
+      height: 100%;
+      opacity: 1;
+      visibility: visible;
+    }
+  }
+  
+  @keyframes banner_revtopleft__XAvhY {
+    0% {
+      width: 100%;
+      height: 100%;
+      opacity: 1;
+      visibility: visible;
+    }
+    25% {
+      width: 100%;
+      height: 0;
+      padding-bottom: 0;
+      visibility: visible;
+    }
+    50% {
+      width: 0;
+      height: 0;
+      padding-bottom: 0;
+      visibility: hidden;
+    }
+    75% {
+      width: 0;
+      height: 0;
+      padding-bottom: 0;
+      visibility: hidden;
+    }
+    100% {
+      width: 0;
+      height: 0;
+      padding-bottom: 0;
+      visibility: hidden;
+    }
+  }
+
+  @media all and (max-width:1024px){
+    .banner_borderAnimation__ecJ7l{display: none;}
+  }
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[5].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[2].oneOf[5].use[2]!./node_modules/@next/font/google/target.css?{"path":"app\\brands\\[slug]\\page.tsx","import":"Istok_Web","arguments":[{"subsets":["latin"],"weight":["400","700"]}],"variableName":"istok"} ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* cyrillic-ext */
+@font-face {
+  font-family: '__Istok_Web_d17c15';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/_next/static/media/e470d0d8866357f3-s.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: '__Istok_Web_d17c15';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/_next/static/media/e08228123ba98aed-s.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* latin-ext */
+@font-face {
+  font-family: '__Istok_Web_d17c15';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/_next/static/media/3f2239ef76193cd9-s.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: '__Istok_Web_d17c15';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/_next/static/media/5f6db94324fceaa3-s.p.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: '__Istok_Web_d17c15';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/_next/static/media/42af22cb37d03019-s.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: '__Istok_Web_d17c15';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/_next/static/media/afd5ebab72fd1dea-s.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* latin-ext */
+@font-face {
+  font-family: '__Istok_Web_d17c15';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/_next/static/media/0f77769f7e06dc4d-s.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: '__Istok_Web_d17c15';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/_next/static/media/283a5535aa41911a-s.p.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}@font-face {font-family: '__Istok_Web_Fallback_d17c15';src: local("Arial");ascent-override: 98.46%;descent-override: 42.37%;line-gap-override: 0.00%;size-adjust: 102.21%
+}.__className_d17c15 {font-family: '__Istok_Web_d17c15', '__Istok_Web_Fallback_d17c15';font-style: normal
+}
+

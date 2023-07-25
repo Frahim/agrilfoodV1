@@ -49,7 +49,7 @@ export default async function Brand({ params: { slug } }: Params) {
       <nav className="navbar navbar-expand-lg navbar-light bg-color">
         <div className="container">
           <Link className="navbar-brand mw-200" href="/">
-            <Image src={`http://admin.agrilfoods.com/uploads/brand/${brand.logo}`} className="navlogo" width={200} height={80} alt="Brand Logo" /></Link>
+            <Image src={`https://admin.agrilfoods.com/uploads/brand/${brand.logo}`} className="navlogo" width={200} height={80} alt="Brand Logo" /></Link>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
@@ -159,7 +159,7 @@ export default async function Brand({ params: { slug } }: Params) {
                       <Link href={`/product/${product.id}`}>
                         <div className="card box_shadow1">
                           <div className="">
-                            <Image src={`http://admin.agrilfoods.com/${product.pf_image}`} alt='iamge' width="200" height="200" />
+                            <Image src={`https://admin.agrilfoods.com/${product.pf_image}`} alt='iamge' width="200" height="200" />
                             <div className="card-body text-center">
                               <h3 className="textDark mt-2"> {product.name}</h3>
                             </div>

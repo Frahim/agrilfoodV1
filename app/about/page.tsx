@@ -34,7 +34,7 @@ async function About() {
           return (
             <div key={page.id} className="header-slider">
               <div className="background-image">               
-              <Image className="pagebanner" width={2000} src={`http://admin.agrilfoods.com/uploads/pages/${page.banner_image}`} alt='iamge' height="500" /> 
+              <Image className="pagebanner" width={2000} src={`https://admin.agrilfoods.com/uploads/pages/${page.banner_image}`} alt='iamge' height="500" /> 
               <div className='overlayer'></div>
                 <div className='bannertext'>
                   <h1>About Agril Foods LTD</h1>

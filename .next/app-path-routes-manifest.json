@@ -1,0 +1,15 @@
+{
+  "/page": "/",
+  "/about/page": "/about",
+  "/brands/page": "/brands",
+  "/blog/page": "/blog",
+  "/category/page": "/category",
+  "/contact/page": "/contact",
+  "/employ/page": "/employ",
+  "/product/page": "/product",
+  "/blog/[slug]/page": "/blog/[slug]",
+  "/brands/[slug]/page": "/brands/[slug]",
+  "/category/[slug]/page": "/category/[slug]",
+  "/product/[slug]/page": "/product/[slug]",
+  "/employ/[slug]/page": "/employ/[slug]"
+}

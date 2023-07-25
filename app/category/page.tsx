@@ -43,7 +43,7 @@ export default async function CategoryProduct() {
                                     <Link href={`category/${cat.slug}`}>
                                         <div className="card box_shadow1">
                                             <div className="">
-                                                <Image src={`http://admin.agrilfoods.com/uploads/category/${cat.cat_image}`} alt='iamge' width="200" height="200" />
+                                                <Image src={`https://admin.agrilfoods.com/uploads/category/${cat.cat_image}`} alt='iamge' width="200" height="200" />
                                                 <div className="card-body text-center">
                                                     <h3 className="textDark mt-2"> {cat.name}</h3>
                                                 </div>

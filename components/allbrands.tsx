@@ -41,7 +41,7 @@ export default async function allbrands() {
                 <div className='row'>
                     <div key={brand.id} className='col-sm-12 col-md-4 first_item sliderighr1' >
                         <div className='wrapper-sec bg-white'>
-                             <Image src={`http://admin.agrilfoods.com/${brand.logo}`} alt='Brand Logo' className="mw-200 kingsLogo" width={150} height={150} /> 
+                             <Image src={`https://admin.agrilfoods.com/${brand.logo}`} alt='Brand Logo' className="mw-200 kingsLogo" width={150} height={150} /> 
                             <h2 className="">{brand.name}</h2>
                         </div>
                     </div>

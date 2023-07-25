@@ -82,7 +82,7 @@ export default async function Category({ params: { slug } }: Params) {
                       <div className="card box_shadow1">
                         <div className="">
                           <Image
-                            src={`http://admin.agrilfoods.com/${product.pf_image}`}
+                            src={`https://admin.agrilfoods.com/${product.pf_image}`}
                             alt="image"
                             width={200}
                             height={200}

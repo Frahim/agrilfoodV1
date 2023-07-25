@@ -1,9 +1,9 @@
-"use client";
+"use client"
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
-import "react-responsive-carousel/lib/styles/carousel.min.css";
-import { Carousel } from "react-responsive-carousel";
 import getProductbySlug from "@/lib/getProductbySlug";
+import ImageGallery from "react-image-gallery"
+import "react-image-gallery/styles/css/image-gallery.css";
 
 interface ProductCarouselProps {
   params: {
@@ -65,30 +65,28 @@ const ProductCarousel: React.FC<ProductCarouselProps> = ({ params }) => {
   }
 
   const productGalleryImages = product.product_images.map((image) => ({
-    original: `http://admin.agrilfoods.com/${image.image}`,
-    thumbnail: `http://admin.agrilfoods.com/${image.image}`,
+    original: `https://admin.agrilfoods.com/${image.image}`,
+    thumbnail: `https://admin.agrilfoods.com/${image.image}`,
   }));
 
-  // Custom function for rendering thumbs
-  const renderThumbs = () => {
-    return productGalleryImages.map((image, index) => (
-      <div key={index} style={{ margin: "5px", cursor: "pointer" }}>
-        <Image src={image.thumbnail} alt={`Thumbnail ${index}`} width={100} height={80} />
-      </div>
-    ));
-  };
+  // Check if the image gallery is empty
+  if (productGalleryImages.length === 0) {
+    return (
+      <>
+        <ImageGallery items={[{ original: `https://admin.agrilfoods.com/${product.pf_image}` }]} />
+      </>
+    );
+  }
+
+  // If the image gallery is not empty, add the pf_image as the first slide
+  const carouselImages = [
+    { original: `https://admin.agrilfoods.com/${product.pf_image}` },
+    ...productGalleryImages,
+  ];
 
   return (
     <>
-      <Carousel showThumbs={true} showStatus={true} renderThumbs={renderThumbs}>
-       
-        {productGalleryImages.map((image, index) => (
-          <div key={index}>
-            <Image src={image.original} alt={`Image ${index}`} width={700} height={500} />
-          </div>
-        ))}
-      
-      </Carousel>
+      <ImageGallery items={carouselImages} showThumbnails={true} showFullscreenButton={true} />
     </>
   );
 };

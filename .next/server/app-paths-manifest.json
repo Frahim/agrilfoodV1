@@ -1,4 +1,15 @@
 {
   "/page": "app/page.js",
-  "/category/[slug]/page": "app/category/[slug]/page.js"
+  "/about/page": "app/about/page.js",
+  "/brands/page": "app/brands/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/category/page": "app/category/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/employ/page": "app/employ/page.js",
+  "/product/page": "app/product/page.js",
+  "/blog/[slug]/page": "app/blog/[slug]/page.js",
+  "/brands/[slug]/page": "app/brands/[slug]/page.js",
+  "/category/[slug]/page": "app/category/[slug]/page.js",
+  "/product/[slug]/page": "app/product/[slug]/page.js",
+  "/employ/[slug]/page": "app/employ/[slug]/page.js"
 }

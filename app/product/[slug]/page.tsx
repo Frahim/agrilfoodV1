@@ -65,21 +65,11 @@ async function Product({ params: { slug } }: Params) {
 
             </div>
             <div className="col-sm-12 col-md-6">
-              <h1 className="productTitle">{product.type} test</h1>
+              <h1 className="productTitle">{product.type}</h1>
               <h2 className="productType">{product.name}</h2>
-              <p className="productTypeDescription">
-                {product.description}
-              </p>
-              <h3 className="packageInstractionTitle">Disease Resistance Package</h3>
-              <div className="packageInstraction">
-                {product.disease}
-                <p className="resistance">Intermediate Resistance:</p>
-                {product.description}
-              </div>
-              <div className="productVaritionWrapper">
-                <div className="tabilTitle">Variety</div>
-                {product.variety}
-              </div>
+              <div className="productTypeDescription">
+              <div dangerouslySetInnerHTML={{ __html: product.description }}></div>              
+              </div>              
             </div>
           </div>
         </div>

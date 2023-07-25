@@ -34,7 +34,7 @@ const Factfiger: React.FC = () => {
           {hilighterData.map((item) => (
             <div key={item.id} className='crops col-sm-6 col-md-2'>
               <div className='cropsinner'>
-                <Image className="hilightericon" width={80} src={`http://admin.agrilfoods.com/uploads/highlighter/${item.icon_image}`} alt='image' height="80" />
+                <Image className="hilightericon" width={80} src={`https://admin.agrilfoods.com/uploads/highlighter/${item.icon_image}`} alt='image' height="80" />
                 <div className='countnum'>
                   <span className='number'>
                     <CountUp end={item.number} duration={5} />

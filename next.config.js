@@ -9,6 +9,8 @@ const nextConfig = {
   images: {
       domains: ['admin.agrilfoods.com'],   
   },
+
+ 
  
   webp: {
     preset: "default",

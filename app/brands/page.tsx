@@ -98,7 +98,7 @@ export default async function brandsPage() {
                                 <div key={brand.id} className='col-sm-12 col-md-4 first_item sliderighr1' >
                                     <div className='wrapper-sec bg-white text-center'>
                                         <Link href={`/brands/${brand.slug}`}>
-                                        <Image src={`http://admin.agrilfoods.com/uploads/brand/${brand.logo}`} alt='Brand Logo' className="mb-5" width={150} height={150} />
+                                        <Image src={`https://admin.agrilfoods.com/uploads/brand/${brand.logo}`} alt='Brand Logo' className="mb-5" width={150} height={150} />
                                         <h2 className="mb-3 t-dark">{brand.name}</h2>
                                         <div className='content t-dark'>{brand.about_brand}</div>
                                         </Link>

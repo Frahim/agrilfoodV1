@@ -44,7 +44,7 @@ export default async function page({ params: { slug } }: Params) {
             <div className='container'>
                 <div className='row align-items-center'>
                     <div className='col-sm-12 col-md-4 left-sec'>
-                        <Image src={`http://admin.agrilfoods.com/uploads/employ/${employ.picture}`} alt='Profile Picture' className="profilepic" width={600} height={400} />
+                        <Image src={`https://admin.agrilfoods.com/uploads/employ/${employ.picture}`} alt='Profile Picture' className="profilepic" width={600} height={400} />
                         <div className='infosec'>
 
                         </div>

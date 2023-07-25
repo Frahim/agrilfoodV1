@@ -19,7 +19,7 @@ import { Mogra } from '@next/font/google';
 const mogra = Mogra({ subsets: ['latin'], weight: ['400'] });
 
 import { Metadata } from 'next';
-import Homebanner from '../components/HomeBanner';
+
 
 export const metadata: Metadata = {
   title: 'Agril Foods LID',
@@ -71,7 +71,7 @@ interface Category {
 }
 export default async function Home({ params: { slug } }: Params) {
 
-
+  const maxCategoriesToShow = 4;
   const cats = await gtAllCategory()
   const categoryId = cats.slug;
   const brands = await getAllBrands();
@@ -119,7 +119,7 @@ export default async function Home({ params: { slug } }: Params) {
         <div key={brand.id} className='row g-0 align mb-5'>
           <div className='col-sm-12 col-md-4 first_item sliderighr1' >
             <div className='wrapper-sec bg-white'>
-              <Image className="mw-200 kingsLogo" width={200} src={`http://admin.agrilfoods.com/uploads/brand/${brand.logo}`} alt='iamge' height="100" />
+              <Image className="mw-200 kingsLogo" width={200} src={`https://admin.agrilfoods.com/uploads/brand/${brand.logo}`} alt='iamge' height="100" />
 
               <h2 className={`${mogra.className} sisFirstTitle text-dark`}>{brand.name}</h2>
 
@@ -134,13 +134,14 @@ export default async function Home({ params: { slug } }: Params) {
           <div id="service" className='col-sm-12 col-md-4 third_item align-self-center slideLeft'>
             <div className='wrapper-sec bg-white'>
               <h3 className="">Product Category</h3>
-              {brand.category.split(',').map((categoryId) => {
+              {/* Use slice() to limit the number of categories */}
+              {brand.category.split(',').slice(0, maxCategoriesToShow).map((categoryId) => {
                 const category = cats.find((cat: Category) => cat.id === parseInt(categoryId));
 
                 if (category) {
                   return (
                     <Link key={category.id} href={`/category/${category.slug}`}>
-                      <Image className="mw-200 catimg" width={80} height={80} src={`http://admin.agrilfoods.com/uploads/category/${category.cat_image}`} alt='Category Image' />
+                      <Image className="mw-200 catimg" width={80} height={80} src={`https://admin.agrilfoods.com/uploads/category/${category.cat_image}`} alt='Category Image' />
                       <span className="catname">{category.name}</span>
                     </Link>
                   );
@@ -149,7 +150,7 @@ export default async function Home({ params: { slug } }: Params) {
                 return null;
               })}
             </div>
-          </div>
+          </div>        
         </div>
 
       ))}

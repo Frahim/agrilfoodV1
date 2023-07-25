@@ -127,6 +127,7 @@ export default function RootLayout({ children }: { children: React.ReactNode, })
     <html lang='en'>
       <body>
         {children}        
+         {/* @ts-expect-error Server Component */}
         <Footer />
         <Script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/js/bootstrap.bundle.min.js" 
         integrity="sha512-sH8JPhKJUeA9PWk3eOcOl8U+lfZTgtBXD41q6cO/slwxGHCxKcW45K4oPCUhHG7NMB4mbKEddVmPuTXtpbCbFA==" crossOrigin="anonymous" referrerPolicy="no-referrer"/>

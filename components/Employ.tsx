@@ -36,7 +36,7 @@ export default async function allEmploy() {
                         <div className='employWrap'>
                         
                             <div className='proimg'>
-                            <Image src={`http://admin.agrilfoods.com/uploads/employ/${employ.picture}`} alt='Profile Picture' className="profilepic" width={300} height={300} />
+                            <Image src={`https://admin.agrilfoods.com/uploads/employ/${employ.picture}`} alt='Profile Picture' className="profilepic" width={300} height={300} />
                             </div>
                             
                             <div className='employ-sec text-center'>

@@ -7,17 +7,17 @@ import { GrFormNext, GrFacebookOption, GrTwitter, GrInstagram, GrYoutube, GrPint
 import getAllSocial from '@/lib/getAllSocial'
 
 interface SocialMediaItem {
-    id: number;
-    smname: string;
-    smurl: string;
-    socialicon:string;
-    created_at: string;
-    updated_at: string;
-  }
+  id: number;
+  smname: string;
+  smurl: string;
+  socialicon: string;
+  created_at: string;
+  updated_at: string;
+}
 
 
 export default async function Footer() {
-  const socialMediaData = await  getAllSocial()
+  const socialMediaData = await getAllSocial()
   return (
     <>
       <div className='section--has-background'>
@@ -53,29 +53,16 @@ export default async function Footer() {
               <div className='col-sm-12 col-md-4 footerWidget footerTwo'>
                 <h3 className='widgetTitle t-white'>FOLLOW</h3>
                 <ul className='socialmedia'>
-                 
-                  {socialMediaData.map((item:SocialMediaItem) => {
+
+                  {socialMediaData.map((item: SocialMediaItem) => {
                     return (
-                  <li key={item.id}>
-                    <Link href={item.smurl} >                    
-                    <Image src={`/uploads/socialicon/${item.socialicon}`} alt="Social Icon" width={40} height={40}/>
-                    </Link>
-                  </li>
-                  )
-                 })}
-                 
-                  {/* <li>
-                    <Link href='/' ><GrTwitter /></Link>
-                  </li>
-                  <li>
-                    <Link href='/' ><GrInstagram /></Link>
-                  </li>
-                  <li>
-                    <Link href='/' ><GrYoutube /></Link>
-                  </li>
-                  <li>
-                    <Link href='/' ><GrPinterest /></Link>
-                  </li> */}
+                      <li key={item.id}>
+                        <Link href={item.smurl} target="_blank">
+                          <Image src={`https://admin.agrilfoods.com/uploads/socialicon/${item.socialicon}`} alt="Social Icon" width={40} height={40} />
+                        </Link>
+                      </li>
+                    )
+                  })}
 
                 </ul>
               </div>

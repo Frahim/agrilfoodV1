@@ -479,14 +479,16 @@ ul.socialmedia>li>a:hover>svg>path {
 
 ul.socialmedia li a {
   width: 30px;
-  height: 30px;
-  background: #00000080;
+  height: 30px;  
   display: block;
   text-align: center;
   transition: all 0.2s;
   -webkit-transition: all 0.2s;
 }
-
+ul.socialmedia li img {
+  max-width: 30px;
+  max-height: 30px;
+}
 ul.socialmedia li a:hover {
   background: #fff;
 }
@@ -901,8 +903,8 @@ img.navlogo {
 
 /* Category*/
 .catimg {
-  width: 60px !important;
-  height: 60px !important;
+  width: 70px !important;
+  height: 51px !important;
   margin: 10px;
   object-fit: cover;
   overflow: hidden;
